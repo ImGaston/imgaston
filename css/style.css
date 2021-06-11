@@ -3,12 +3,20 @@ body {
     background-color: #E4F5FF;
     color: #022534;
 }
+.main a {
+    color: #022534;
+
+}
 }
 
 @media (prefers-color-scheme: dark) {
 body {
     background-color: #022534;
     color: #E4F5FF;
+}
+.main a {
+    color: #E4F5FF;
+
 }
 }
 
@@ -24,18 +32,20 @@ html {
 }
 
 .body {
-display: grid;
-grid-template-columns: repeat(5, 1fr);
-grid-template-rows: repeat(5, 1fr);
-grid-column-gap: 0px;
-grid-row-gap: 0px;
-width: 100vw;
-height: 100vh;
-}
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    }
 
 .header { 
     grid-area: 1 / 1 / 2 / 6; 
     justify-self: center;
+    align-self: center;
     padding: 1rem;
 }
 
@@ -53,14 +63,25 @@ height: 100vh;
 
 h1 {
     font-family: 'Bitter', serif;
-    font-size: 3.0rem;
+    font-size: 4.0rem;
 }
 
-.header p {
+.main p {
     font-size: 2.0rem;
+    padding: 1rem;
+}
+.main .main__links{
+    justify-self: center;
+    align-self: end;
+}
+.main a {
+    font-size: 12.0rem;
+    text-decoration: none;
+    padding: 2rem;
+
 }
 
 .footer p {
-    font-size: 1.2rem;
+    font-size: 2rem;
     font-weight: bold;
 }
