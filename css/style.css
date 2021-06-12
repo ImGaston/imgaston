@@ -34,17 +34,16 @@ html {
 .body {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(5, 1fr);
+    grid-template-rows: 15% 1fr 1fr 1fr 15%;
     grid-column-gap: 0px;
     grid-row-gap: 0px;
     height: 100vh;
-}
+}   
 
 .header { 
     grid-area: 1 / 1 / 2 / 6; 
-    justify-self: center;
+    /* justify-self: center; */
     align-self: center;
-    padding: 1rem;
 }
 
 .main { 
@@ -62,13 +61,17 @@ html {
 /* Header */
 h1 {
     font-family: 'Bitter', serif;
-    font-size: 4.0rem;
+    font-size: 5.0rem;
+    padding-left: 2.5rem;
+    padding-top: 5rem;
 }
 
 /* Main */
 .main p {
     font-size: 2.0rem;
-    padding: 2rem;
+    padding-left: 2rem;
+    padding-top: 2rem;
+    padding-right: 2rem;
 }
 .main__links {
     display: grid;
@@ -79,7 +82,7 @@ h1 {
 }
 
 .main__links a {
-    font-size: 12.0rem;
+    font-size: 8.0rem;
     text-decoration: none;
     padding: 2rem;
     justify-self: center;
