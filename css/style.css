@@ -27,20 +27,18 @@ body {
 }
 
 html {
-    font-size: 62.5%;
     font-family: 'Open Sans', sans-serif;
+    font-size: 62.5%;
 }
 
 .body {
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(5, 1fr);
     grid-column-gap: 0px;
     grid-row-gap: 0px;
-    width: 100vw;
     height: 100vh;
-    justify-content: center;
-    }
+}
 
 .header { 
     grid-area: 1 / 1 / 2 / 6; 
@@ -61,26 +59,33 @@ html {
     padding-bottom: 1rem;
 }
 
+/* Header */
 h1 {
     font-family: 'Bitter', serif;
     font-size: 4.0rem;
 }
 
+/* Main */
 .main p {
     font-size: 2.0rem;
-    padding: 1rem;
+    padding: 2rem;
 }
-.main .main__links{
-    justify-self: center;
-    align-self: end;
+.main__links {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
-.main a {
+.main__links p {
+    display: inline-block;
+}
+
+.main__links a {
     font-size: 12.0rem;
     text-decoration: none;
     padding: 2rem;
-
+    justify-self: center;
 }
 
+/* Footer */
 .footer p {
     font-size: 2rem;
     font-weight: bold;
