@@ -1,9 +1,9 @@
-# Hi 👋 I'm Gastón Corbalán
+# Hi there 👋 
 
 ![banner with mi name, Gaston Corbalan and the technologies that I know](./Linkedin%20Banner.png)
 
 ## 👨🏽‍💻 About me
-I am looking to develop digital products as a **Front End Dev**. My 10 years in business allow me to have a global vision of a product, understand the problems that it solves and for who it is. 
+I am **Front End Developer** looking to create digital products. My 10 years in business allow me to have a global vision of a product, understand the problems that it solves and for who it is. 
 
 I have a mindset on constant search for improve and build. Today my technical knowledge in programming opened a new set of skills to create solutions which I am looking to develop in a team.
 
@@ -31,3 +31,17 @@ I have a mindset on constant search for improve and build. Today my technical kn
 ## 📲 CV and contact
 - My email: <a style="margin-left: 8px;" href="mailto:corbalan.gaston@gmail.com">corbalan.gaston@gmail.com</a>
 - My CV in PDF format: <a style="text-align: center;" href="https://drive.google.com/file/d/1Dxg8jbDcKFodlWSdY9nKqXvR4a_zdNDe/view">Curriculum Vitae</a>
+
+## 📎 Clipboard
+```
+Gaston Corbalan
+```
+```
+Front-End Developer
+```
+```
+corbalan.gaston@gmail.com
+```
+```
+https://www.linkedin.com/in/gcorbalan/
+```
