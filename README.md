@@ -1,11 +1,9 @@
 # Hi there 👋 
 
-![banner with mi name, Gaston Corbalan and the technologies that I know](./Linkedin%20Banner.png)
-
 ## 👨🏽‍💻 About me
-I am **Front End Developer** looking to create digital products. My 10 years in business allow me to have a global vision of a product, understand the problems that it solves and for who it is. 
+I am a **Revenue Management Specialist** focused on optimizing short-term rental profitability. My 10 years in business give me a global vision of a product, allowing me to understand the problems it solves and the audience it serves.
 
-I have a mindset on constant search for improve and build. Today my technical knowledge in programming opened a new set of skills to create solutions which I am looking to develop in a team.
+I have a mindset in constant search for improvement and growth. Today, my expertise in revenue management, automation, and market analysis enables me to develop data-driven solutions, helping property managers maximize their earnings. I also work on personal coding projects, using data analysis and automation to enhance pricing strategies and operational efficiency. I am looking to expand these capabilities within a team, leveraging technology, data, and strategy to drive success.
 
 ## ⚙️ My Projects
 - [To-do List: All my days starts with one](https://github.com/ImGaston/to-do-list)
@@ -29,7 +27,7 @@ I have a mindset on constant search for improve and build. Today my technical kn
 - [LinkedIn](https://www.linkedin.com/in/gcorbalan//) where you can find more professional information about me
 
 ## 📲 CV and contact
-- My email: <a style="margin-left: 8px;" href="mailto:corbalan.gaston@gmail.com">corbalan.gaston@gmail.com</a>
+- My email: <a style="margin-left: 8px;" href="mailto:hola@gastoncorbalan.com">hola@gastoncorbalan.com</a>
 - My CV in PDF format: <a style="text-align: center;" href="https://drive.google.com/file/d/1Dxg8jbDcKFodlWSdY9nKqXvR4a_zdNDe/view">Curriculum Vitae</a>
 
 ## 📎 Clipboard
@@ -40,7 +38,7 @@ Gaston Corbalan
 Front-End Developer
 ```
 ```
-corbalan.gaston@gmail.com
+hola@gastoncorbalan.com
 ```
 ```
 https://www.linkedin.com/in/gcorbalan/
